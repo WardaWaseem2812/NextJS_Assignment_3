@@ -27,6 +27,13 @@ export default function RootLayout({
     <html lang="en" scroll-behavior = "smooth"
     
     >
+      <link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+  integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMS0IJcxzqxOCY1MJY93CuN5ghg2LOQqT2EYm+"
+  crossOrigin="anonymous"
+/>
+
       
       <body>
           <img  
